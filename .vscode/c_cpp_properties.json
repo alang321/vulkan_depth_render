@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "YourConfig",
+            "compilerPath": "/usr/bin/g++",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c17",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

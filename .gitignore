@@ -1,0 +1,5 @@
+/build
+/bin
+*.engine.*.fp16.*
+*.engine.*.fp32.*
+*.engine.*.int8.*
