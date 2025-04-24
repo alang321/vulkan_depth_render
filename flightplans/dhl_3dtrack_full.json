@@ -1,0 +1,79 @@
+{
+    "gatesize": {
+        "outer": 2.7,
+        "inner": 1.5
+    },
+    "waypoints": [
+        {
+            "x": 1.21,
+            "y": -1.42,
+            "z": -0.26229,
+            "yaw": -46.38,
+            "type": "START"
+        },
+        {
+            "x": 3.65,
+            "y": -4.13,
+            "z": -1.47,
+            "yaw": 133.62,
+            "type": "GATE",
+            "gate_type": "A2RL"
+        },
+        {
+            "x": 10.16,
+            "y": -2.35,
+            "z": -1.47,
+            "yaw": 195.07,
+            "type": "GATE",
+            "gate_type": "A2RL"
+        },
+        {
+            "x": 15.59,
+            "y": -5.95,
+            "z": -1.47,
+            "yaw": 144.82,
+            "type": "GATE",
+            "gate_type": "A2RL_DOUBLE"
+        },
+        {
+            "x": 18.79,
+            "y": -8.88,
+            "z": -1.47,
+            "yaw": 90.43,
+            "type": "GATE",
+            "gate_type": "A2RL_DOUBLE"
+        },
+        {
+            "x": 20.51,
+            "y": -0.9,
+            "z": -1.47,
+            "yaw": 90.0,
+            "type": "GATE",
+            "gate_type": "A2RL"
+        },
+        {
+            "x": 15.75,
+            "y": 7.17,
+            "z": -1.47,
+            "yaw": 180.0,
+            "type": "GATE",
+            "gate_type": "A2RL"
+        },
+        {
+            "x": 10.25,
+            "y": 3.65,
+            "z": -1.47,
+            "yaw": 180.0,
+            "type": "GATE",
+            "gate_type": "A2RL"
+        },
+        {
+            "x": 4.75,
+            "y": 7.17,
+            "z": -1.47,
+            "yaw": 180.0,
+            "type": "GATE",
+            "gate_type": "A2RL"
+        }
+    ]
+}
